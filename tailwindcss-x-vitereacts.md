@@ -10,6 +10,16 @@ Installing Tailwind CSS as a Vite plugin is the most seamless way to integrate i
 npm install tailwindcss @tailwindcss/vite
 ```
 
+### Import Tailwindcss Css
+
+Add an `@import` to your CSS file that imports Tailwind CSS.
+
+```
+@import "tailwindcss";
+```
+
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
 Adding
 
 {% code title="vite.config.js" overflow="wrap" lineNumbers="true" %}

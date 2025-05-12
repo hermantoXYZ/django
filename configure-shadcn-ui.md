@@ -50,3 +50,11 @@ src/index.css
 After settings up these configurations, you can run shadcn-ui initialization command again.
 
 <figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+After successful,  you can install command like this
+
+```
+npx shadcn@latest add form input button
+```
+
+<figure><img src=".gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>

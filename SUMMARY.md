@@ -40,6 +40,10 @@
 * [Model Post](django-and-react-blog/model-post.md)
 * [Login, Register API](django-and-react-blog/login-register-api.md)
 
+***
+
+* [TailwindCSS X viteReacts](tailwindcss-x-vitereacts.md)
+
 ## FrontEnd
 
 * [React Installation and Project Setup](frontend/react-installation-and-project-setup.md)

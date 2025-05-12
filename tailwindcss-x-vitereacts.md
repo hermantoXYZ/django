@@ -18,7 +18,7 @@ Add an `@import` to your CSS file that imports Tailwind CSS.
 @import "tailwindcss";
 ```
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 Adding
 

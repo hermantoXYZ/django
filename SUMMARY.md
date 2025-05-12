@@ -43,6 +43,7 @@
 ***
 
 * [TailwindCSS X viteReacts](tailwindcss-x-vitereacts.md)
+* [Configure Shadcn/UI](configure-shadcn-ui.md)
 
 ## FrontEnd
 
